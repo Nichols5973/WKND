@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/taylormade/language-masters/en:/",
+    "/content/taylormade/language-masters/en/:/en/",
+    "/content/taylormade/language-masters/fr/:/fr/",
+    "/content/taylormade/language-masters/fr:/fr",
+    "/content/taylormade/language-masters/es/:/es/",
+    "/content/taylormade/language-masters/es:/es",
+    "/content/taylormade/language-masters/ja/:/ja/",
+    "/content/taylormade/language-masters/ja:/ja",
+    "/content/taylormade/language-masters/de/:/de/",
+    "/content/taylormade/language-masters/de:/de",
+    "/content/taylormade/configuration:/.helix/config.json",
+    "/content/taylormade/metadata:/metadata.json",
+    "/content/taylormade/redirects:/redirects.json",
+    "/content/taylormade/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/taylormade/",
+    "/content/dam/taylormade/"
   ]
 }
